@@ -1,0 +1,11 @@
+I want to develop n-dimensional games for anyone who wants that mental trip. In 2003 I built a 3-dimensional tic-tac-toe, and wanted to make 4-d, but did't have the tools or time. This is my back-burner
+
+Notes
+-----
+Matplotlib and pyplot
+- I can plot out by hand any point in 4D space, where it would fall on a 2D representation.
+  But the trick is using a tool with sufficient computer graphics capabilities to take the 2D
+  representation of the 4D game space, and rotate and pivot it around so that the observer is
+  able to picture what's happening. It's just one step beyond 3D graphics.
+
+
